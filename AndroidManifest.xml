@@ -22,7 +22,7 @@
             android:value="30" />
         <meta-data
             android:name="xposeddescription"
-            android:value="выключение автоматического проигрывание в штатном плеере при подключения флешки" />
+            android:value="выключение автоматического проигрывания в штатном плеере при подключения флешки" />
         
     </application>
 
